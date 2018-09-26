@@ -1,2 +1,2 @@
 Thanachart Bank
-on branch develop master
+on branch  master
